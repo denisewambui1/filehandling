@@ -1,0 +1,6 @@
+Line 1: Hello, World!
+Line 2: The year is 2024.
+Line 3: This is a sample text file.
+Line 4: Appending new content.
+Line 5: Adding more lines.
+Line 6: End of appended lines.
